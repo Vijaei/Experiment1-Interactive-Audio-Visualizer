@@ -1,7 +1,7 @@
 //Experiment1-Interactive Audio Visualizer
 //Vijaei Posarajah
 //An interactive audio visualizer on a website using p5.js, inspired by the concept of spring and the bloom of flowers
-//found issues loating html page in chrome, using microsoft edge or firefox works
+//found issues loading html page in chrome, using microsoft edge or firefox works
 //refenced tutorial by: Yannis Yannakopoulos---https://tympanus.net/codrops/2018/03/06/creative-audio-visualizers/
 
 
